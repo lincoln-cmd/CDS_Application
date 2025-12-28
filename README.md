@@ -4,6 +4,9 @@
 **의료기기(진단/치료 목적)가 아니며, 실제 임상 사용을 의도하지 않습니다.**  
 데이터는 **합성(가짜) EHR 데이터**만 사용합니다.
 
+**Notion**: https://www.notion.so/SMART-on-FHIR-CDS-2d7c2fb07df980e8ad46dd50aecfe8a6
+**전자연구노트(ELN)**: https://mynotebook.labarchives.com/MTU3NTA4Ni41fDEyMTE2MDUvMTIxMTYwNS9Ob3RlYm9vay8yNDAzMTIyMzM2fDM5OTgyOTYuNQ==/page/11410843-2
+
 ---
 
 ## 0) 프로젝트 개요
